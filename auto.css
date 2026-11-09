@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.baner {
+  background-color: #45517d;
+  color: #ffffff;
+  text-align: right;
+  font-size: 120%;
+  height: 60px;
+}
+.lewy {
+  background-color: #61b2ec;
+  width: 40%;
+  height: 500px;
+  float: left;
+}
+.prawy {
+  background-color: #8ec9f2;
+  width: 60%;
+  height: 500px;
+  float: left;
+}
+footer {
+  background-color: #45517d;
+  color: #ffffff;
+  font-size: 150%;
+  text-align: center;
+  clear: both;
+}
+table {
+  width: 100%;
+}
+a:link {
+  color: #ffa500;
+}
+a:visited {
+  color: #008000;
+}
